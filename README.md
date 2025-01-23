@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in C code related to pointer arithmetic and array bounds. The bug is difficult to detect because it doesn't always cause a segmentation fault or crash. Instead, it can lead to unexpected behavior or incorrect results. The solution highlights how to identify and fix this problem using careful pointer manipulation and array bound checks.
